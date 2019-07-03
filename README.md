@@ -1,4 +1,6 @@
 # vimi-encrip
+v0.1.sln // é o arquivo do código C#
+vimicrip_v0.1.exe //é o programa executável
 
 *COMO USAR:
 
