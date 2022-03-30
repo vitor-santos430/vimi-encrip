@@ -5,11 +5,11 @@ vimicrip_v0.1.exe //é o programa executável
 *COMO USAR:
 
 Comandos: 
-  help    - mostra os demais comandos no programa\n
-  crip    - ativa o encriptografador\n
-  descrip - ativa o descriptografador\n
-  limpar  - limpa a tela\n
-  sair    - sai do programa\n
+  help    - mostra os demais comandos no programa<br>
+  crip    - ativa o encriptografador<br>
+  descrip - ativa o descriptografador<br>
+  limpar  - limpa a tela<br>
+  sair    - sai do programa<br>
   
 Criptografador:
   Coloca a palavra
